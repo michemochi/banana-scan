@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Protothreads_1_2.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>132240</length>                 
+      <used>34260</used>                     
+      <free>97980</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>832</used>                     
+      <free>31936</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
